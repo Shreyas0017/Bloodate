@@ -1,4 +1,4 @@
-H
+
 # Bloodate
 
 Bloodate is a web-based platform designed to simplify the process of donating and receiving blood. Built with PHP, Bootstrap, CSS, jQuery, and JavaScript, the platform aims to connect donors and recipients efficiently and securely.
