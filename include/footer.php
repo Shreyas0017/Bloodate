@@ -12,8 +12,8 @@
 							</h1>
 
 							<div class="details">
-								 <p> 92 300 1234567 <i class="fa fa-phone"></i>
-								exceptionalprogrammers@gmail.com <i class="fa fa-envelope"></i>  </p>
+								 <p> 7439361373 <i class="fa fa-phone"></i>
+								shreyassaha00@gmail.com <i class="fa fa-envelope"></i>  </p>
 							</div>
 
 					</div>
