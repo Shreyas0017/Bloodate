@@ -5,6 +5,7 @@
 						<h1 class="text-center">Contact Us</h1>
 						<hr class="white-bar">
 
+							
 
 							<div class="details">
 								 <p> 7439361373 <i class="fa fa-phone"></i>
